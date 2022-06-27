@@ -1,0 +1,81 @@
+body {
+    background-color: azure;
+}
+
+#container {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    
+}
+
+#ID h1,
+h3 {
+    text-align: center;
+    padding: 0px;
+    background: black;
+    color: white;
+    width: 100%;
+}
+
+header {
+    font-size: 50px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+#body {
+    background-color: white;
+    font-size: auto;
+    padding: 10px;
+}
+
+#Profile {
+    float: left;
+    width: 30%;
+}
+
+#Profile h3 {
+    text-align: center;
+    padding: 0px;
+    background-color: blue;
+    color: white;
+    width: 250px;
+}
+
+#Profile img {
+    margin-left: 25px;
+    border: 3px solid black;
+}
+
+#more {
+    padding: 10px;
+    float: right;
+    width: 65%;
+}
+
+#more h3 {
+    text-align: center;
+    padding: 0px;
+    background-color: blue;
+    color: white;
+    width: 580px;
+}
+
+footer {
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+
+p {
+    text-indent: 30px;
+}
+
+ul {
+    list-style-type: circle;
+    padding: 5px;
+}
